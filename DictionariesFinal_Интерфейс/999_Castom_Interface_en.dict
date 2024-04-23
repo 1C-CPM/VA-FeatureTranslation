@@ -1,0 +1,715 @@
+# Нет в основном словаре
+Налоговый резидент Российской Федерации (Юридическое лицо)=Tax resident of the Russian Federation (Legal entity)
+Виды отчетов для установки лимитов=Types of reports for limit setting
+Файлы Microsoft Excel=Microsoft Excel files
+Все данные отчетного периода=All data for reporting period
+Редактирование этапов процесса=Editing process stages
+
+# Новое из основного словаря
+Администрирование=Administration
+Настройки пользователей и прав=Users and rights settings
+Даты запрета изменения данных=Period-end closing dates
+Просмотр=View
+Администраторы=Administrators
+Группы доступа=Access groups
+Группа доступа=Access group
+Профили групп доступа=Access group profiles
+Профиль групп доступа=Access group profile
+Профиль=Profile
+Пользователи=Users
+Пользователь=User
+Полное имя=Full name
+Права доступа=Access rights
+Группы=Groups
+Группа пользователей=User group
+Все запрещены, исключения назначаются в группах доступа=All denied, configure exceptions in access groups
+Вид доступа=Access kind
+Значение доступа=Access Value
+Включая нижестоящие=Include subordinate items
+Конструктор отчета=Report wizard
+
+Матрица доступа к видам отчетов=Report type access matrix
+Права доступа пользователей настраиваемой отчетности=Customizable reporting user access rights
+Настройка прав доступа к виду отчета=Set up access rights to report type
+Выберите вид доступа=Select access kind
+Чтение=Read
+Чтение, запись=Read, write
+
+Группа раскрытия=Drilldown group
+Строка отчета=Report line
+Сверху (быстрые отборы)=Top (quick filters)
+
+# Заглушки от зацикливания
+Отражение фактических данных * от *=Reflection of actual data * from *
+Организация \\ Объект=Company / Object
+
+# Ошибки в основном словаре
+Выбор доступного реквизита=Select attribute
+Текущая информационная база=Current infobase
+Создание=Create
+создание=create
+(создание)=(create)
+ИТОГО=TOTAL
+количество=count
+Аналитики количество=Dimensions count
+цена=price
+Сумма=Amount
+сумма=amount
+от=from
+Остатки и обороты=Balance and turnovers
+Нет=No
+нет=no
+Да=Yes
+да=yes
+Главное=Quick menu
+Использование=Use
+Новый=New
+вида отчета=report type
+Ссылка=Reference
+Процент=Percentage
+Равно=Equal to
+Срез последних=Slice of the last ones
+Общая дата=Single date for all sections and objects
+Правило обработки=Processing rule
+тысячах=thousands
+Строка=Line
+Уточнение отбора=Filter clarification
+Результат=Result
+Справочник=Catalog
+Документ=Document
+
+# Перевод платформы
+По точному совпадению=Exact match
+По части строки=Anywhere in the line
+По началу строки=At beginning of line
+создание группы=create folder
+Выберите период=Select period
+Введите значение=Enter a value
+Список значений=Value list
+Режим отображения=Display mode
+Не равно=Not equal
+В списке=In list
+УникальныйИдентификатор=UUID
+ДобавитьМесяц=AddMonth
+Курсы валют=Currency exchange rates
+Диалог выбора картинки=Picture selection dialog box
+Имя картинки=Picture name
+
+# Специфичные фразы для тестов
+Пометить * на удаление?=Mark * for deletion?
+Снять с * пометку на удаление?=Clear * deletion mark?
+
+Организаци=Business unit
+ПОЛЕ=Left value
+успешно записан=saved successfully
+*Страна мира*=*Country*
+Параметры вывода аналитики (Номенклатура)=Dimension display parameters (Product range)
+Редактирование порядка=Edit order
+<Без отбора>=<Without filter>
+$ФормулыКод$\nЯнварь 2024 г.\nМесяц=$ФормулыКод$\nJanuary 2024\nMonth
+$ФормулыКод$\nФевраль 2024 г.\nМесяц=$ФормулыКод$\nFebruary 2024\nMonth
+$ФормулыКод$\nМарт 2024 г.\nМесяц=$ФормулыКод$\nMarch 2024\nMonth
+сводная таблица=pivot table
+корпоративные=corporate
+Плоская таблица значений показателей с реквизитами=Flat table of indicator values with attributes
+Настройки документа=Document settings
+Бланки отчетов=Report templates
+Копирование значений показателей отчетов=Copy report indicator values
+Период начала=Start period
+Период окончание=Period end
+Фиксированное значение=Fixed value
+Шаблоны процессов подготовки отчетности=Templates of report preparation process
+Этап / Организация=Step / Company
+
+# Вычищаю из конфигурации Multiplying factor
+Кратность=Multiplier
+Правила проверки=Check rules
+
+Январь 2024 г. - Март 2024 г. (Периодичность: Месяц) <ВА - Основной сценарий>=January 2024 - March 2024 (Frequency: Month) <VA - Main scenario>
+
+# Периоды
+Январь 2024 г.=January 2024
+Февраль 2024 г.=February 2024
+Март 2024 г.=March 2024
+1 квартал 2024 г.=1 quarter of 2024
+2024 г.=2024 year
+
+# НСИ И Тесты
+
+# Тест 00
+УХ - Бюджетирование=CPM - Budget
+УХ - НСИ=CPM - MasterData
+УХ - Казначейство=CPM - Treasury
+УХ - Закупки=CPM - Purchases
+УХ - Дымовые=CPM - Smoke
+
+ГР=DG
+ВА=VA
+
+Штука=Piece
+шт=PCs
+Российский рубль=Russian ruble
+Евро=Euro
+Доллар США=US dollar
+Тенге=Tenge
+РОССИЯ=Russia
+Российская Федерация=The Russian Federation
+группа=group
+период=period
+(завершено *)=(completed *)
+Валюта=Currency
+Курс валюты=The currency exchange
+Проекты=Projects
+
+ВА - Пакет ЦФО=VA - Package CFR
+ВА - Дочернее предприятие=VA - Subsidiary
+ВА - Основной сценарий=VA - Main scenario
+ВА - Основной проект=VA - Main project
+ВА - Группа отчетов=VA - Report group
+ВА - Основной регламент=VA - Main regulations
+ВА - Номенклатура=VA - Products
+ВА - Прочее=VA - Other
+ВА - Номенклатурная группа=VA - Product range group
+ВА - Соглашение с клиентом=VA - Agreement with the client
+ВА - Контрагенты=VA - Counterparties
+ВА - Статьи ДДС=VA - Cash flow items
+ВА - Статьи доходов и расходов=VA - Income and expense items
+ВА - Пустые аналитики=VA - Empty analytics
+
+ВА0ТовКате=VA0ProCate
+ВА0Номенкл=VA0Product
+ВА0Контраг=VA0Counter
+ВА0ДогКонт=VA0Contrac
+ВА0СтатДДС=VA0CFItems
+ВА0СДохРас=VA0IEItems
+
+ООО=LLC
+Система=System
+Меркурий=Mercury
+Венера=Venus
+Земля=Earth
+Марс=Mars
+Администрация=Administration
+Бухгалтерия=Accounting
+Ганимед=Ganymede
+Ио=Io
+
+Товарные категории=Product categories
+Статьи ДДС=Cash flow items
+Программные продукты=Software products
+Реализация программных продуктов=3Software sale
+Внедрение программных продуктов=2Software implementation
+Апгрейд программных продуктов=1Software upgrade
+
+1С:Предприятие 8.3 КОРП. Лицензия на сервер=4C:Enterprise 8.3 CORP. Server License
+1С:Предприятие 8.3 КОРП. Лицензия на сервер (x86-64)=4C:Enterprise 8.3 CORP. Server License (x86-64)
+1С:Предприятие 8 КОРП. Клиентская лицензия на 100 рабочих мест=3C:Enterprise 8 CORP. Client license for 100 users
+1С:Управление холдингом 8=5C:Corporate performance management
+1С:Корпорация=2C:Corporation
+1С:ERP. Управление холдингом=1C:ERP. Corporate performance management
+1С:КП ГУ ПРОФ на 12 месяцев=2C:KP GU PROF for 12 months
+1С:КП ГУ ПРОФ на 6 месяцев=2C:KP GU PROF for 6 months
+
+Работа с настраиваемой отчетностью (экземпляры отчетов, корректировки, сводная таблица)=Operations with customizable reporting (report instances, adjustments, and pivot table)
+Просмотр настраиваемой отчетности (экземпляры отчетов, корректировки, сводная таблица)=View customizable reporting (report instances, adjustments, and pivot table)
+Открытие внешних отчетов и обработок=Open external reports and data processors
+Матрица экземпляров отчетов=Report instance matrix
+
+# Тест 01
+ВА - Ручной ввод по всем аналитикам=VA - Manual entry for all analytics
+ВА - Основной вариант=VA - Main variant
+
+СтрокаСинтетика=LineSynthetic
+СтрокаАналитика=LineDimension
+СтрокаУдалить=LineDelete
+СтолбецУдалить=ColumnDelete
+ГруппаСтрок=LinesGroup
+СТРКСинтетика=LineSynthetic
+
+ГруппаСтрок_Сумма1=LinesGroup_Amount1
+СТРКСинтетика_Сумма1=LineSynthetic_Amount1
+СТРКАНЛТ1_Сумма1=LineDimension1_Amount1
+СТРКАНЛТ2_Сумма1=LineDimension2_Amount1
+СТРКАНЛТ3_Сумма1=LineDimension3_Amount1
+СТРКАНЛТ4_Сумма1=LineDimension4_Amount1
+СТРКАНЛТ5_Сумма1=LineDimension5_Amount1
+СТРКАНЛТ6_Сумма1=LineDimension6_Amount1
+СТРКАНЛТ6Валюта_Сумма1=LineDimension6Curren_Amount1
+СТРКАНЛТВалюта_Сумма1=LineDimensionCurrenc_Amount1
+
+СТРКАНЛТ=LineDimension
+СТРКАНЛТВалюта=LineDimensionCurrenc
+СТРКАНЛТ6Валюта=LineDimension6Curren
+СТРКАНЛТ6Валюта_Количество1=LineDimension6Curren_Count1
+СТРКАНЛТ6Валюта_Цена1=LineDimension6Curren_Price1
+СТРКАНЛТ6Валюта_Сумма1=LineDimension6Curren_Amount1
+СТРКУдалить=LineDelete
+({ВАРучнойВводПоВсемАналитикам.СТРКСинтетика_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ1_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ2_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ3_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ4_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ5_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ6_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТ6Валюта_Цена1}+{ВАРучнойВводПоВсемАналитикам.СТРКАНЛТВалюта_Цена1})/13=({VAManualEntryForAllAnalytics.LineSynthetic_Price1}+{VAManualEntryForAllAnalytics.LineDimension1_Price1}+{VAManualEntryForAllAnalytics.LineDimension2_Price1}+{VAManualEntryForAllAnalytics.LineDimension3_Price1}+{VAManualEntryForAllAnalytics.LineDimension4_Price1}+{VAManualEntryForAllAnalytics.LineDimension5_Price1}+{VAManualEntryForAllAnalytics.LineDimension6_Price1}+{VAManualEntryForAllAnalytics.LineDimension6Curren_Price1}+{VAManualEntryForAllAnalytics.LineDimensionCurrenc_Price1})/13
+ВА - Ручной ввод по всем аналитикам_СтрокаАналитика1=VA - Manual entry for all analytics_LineDimension1
+
+По правилу обработки=By processing rule
+Только для отображения=Only to display
+
+Режим просмотра версии=Version view mode
+Режим сравнения двух версий=Two versions comparison mode
+
+# Тест 02
+ВА - Контекстные пересчеты=VA - Recalculations in context
+ВА - Контекстный пересчет=VA - Recalculation in context
+ВА - Сценарий для индексации=VA - Script for indexing
+
+НастройкиКДНастройкиПорядок=DCSettingsOrderSettings
+
+Итог=Total
+Первая ячейка=First cell
+Невозможно записать значения показателей. Установлен запрет на изменение по параметрам:\n	Сценарий: "ВА - Сценарий для индексации",\n	Организация: "Меркурий ООО",\n	Период: "Январь 2024 г."=Cannot save indicator values. Block to change by parameters is set:\n	Scenario: "VA - Script for indexing",\n	Company: "Mercury LLC",\n	Period: "January 2024"
+Выбранная валюта KZT не соответствует валютам установленным в регламенте по параметрам:\n	Сценарий: "ВА - Основной сценарий",\n	Организация: "Меркурий ООО",\n	Период: "Январь 2024 г."=The selected currency KZT does not correspond to the currencies set in parameter regulation:\n	Scenario: "VA - Main scenario",\n	Company: "Mercury LLC",\n	Period: "January 2024"
+
+ВА_КонтекстныйПересчетИсходный=ВА_КонтекстныйПересчетИсходный
+Лист_123=Лист_123
+$КаталогПроекта$\Макеты\02=$КаталогПроекта$\Макеты\02
+$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетЭталон.xlsx=$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетЭталон_En.xlsx
+$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетПодготовленный.xlsx=$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетПодготовленный_En.xlsx
+$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетИсходный.xlsx=$КаталогПроекта$\Макеты\02\ВА_КонтекстныйПересчетИсходный.xlsx
+
+Создать новый файл=Create new file
+
+# Тест 03
+ВА - Импорт из Excel=VA - Import from Excel
+ВА - ИмпортExcel=VA - ImportExcel
+Синтетика=Synthetic
+Выбор способа расчета показателей=Select method to calculate indicators
+Заполнение по регламенту=Fill by regulation
+на диске=on hard drive
+В файле * не найдена строка *. Импорт остановлен.=In file * no line * was found. Import was aborted.	
+
+ВА_ИмпортExcel=ВА_ИмпортExcel
+$КаталогПроекта$\Макеты\03=$КаталогПроекта$\Макеты\03
+$КаталогПроекта$\Макеты\03\*.xls?=$КаталогПроекта$\Макеты\03\*.xls?
+$КаталогПроекта$\Макеты\03\<Период сценария>\<Сценарий>\<Организация>\<Проект>\<Вид отчета>.xls?=$КаталогПроекта$\Макеты\03\<Scenario period>\<Scenario>\<Company>\<Project>\<Report type>.xls?
+$КаталогПроекта$\Макеты\03\<Вид отчета>+<Организация>.xls?=$КаталогПроекта$\Макеты\03\<Report type>+<Company>.xls?
+
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Шаблон.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Шаблон.mxl
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Пустой.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Пустой.mxl
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий.mxl
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_2.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_2.mxl
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_СТ.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_СТ.mxl
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_2_СТ.mxl=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel_Меркурий_2_СТ.mxl
+
+ВА_ИмпортExcel+Ошибка.xlsx=ВА_ИмпортExcel+Error.xlsx
+ВА_ИмпортExcel+Меркурий.xlsx=ВА_ИмпортExcel+Mercury.xlsx
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Шаблон.xlsx=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Шаблон.xlsx
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Ошибка.xlsx=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Error.xlsx
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Меркурий.xlsx=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Mercury.xlsx
+$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Меркурий_2.xlsm=$КаталогПроекта$\Макеты\03\ВА_ИмпортExcel+Mercury_2.xlsm
+
+Контрагенты_Наименование=Counterparties_Description
+Договоры контрагентов_Наименование=Counterparty contracts_Description
+Товарные категории_Наименование=Product categories_Description
+Номенклатура_Наименование=Product range_Description
+Номенклатура_Артикул=Product range_SKU
+Статьи ДДС_Наименование=Cash flow items_Description
+Статьи доходов и расходов_Наименование=Income and expense items_Description
+Валюты_Наименование=Currencies_Description
+[Номенклатура.Артикул]=[Product range.SKU]
+
+# Тест 04
+ВА - Произвольный запрос=VA - Arbitrary request
+
+# Тест 05
+ВА - Заполнение из РН=VA - Filling from PH
+без истории=no history
+Группа аналитик=Dimension group
+ГР_Статьи ДДС=DG_Cash flow items
+Предназначение=Purpose
+Произвольные данные=Arbitrary data
+
+# Тест 06
+ВА - Аналитики других источников=VA - Analysts from other sources
+ВА - Аналитики из полей других источников=VA - Analysts from fields of other sources
+ВА - Данные для дополнения аналитик=VA - Data to add analytics
+Текущая формула=Current formula
+Другой источник=Other source
+Трансформация аналитик=Analyst transformation
+Рассчитываемый источник=Calculated Source
+Пересчет в коде=Recalculation in code
+Товары=Goods
+СтатьиДДС=CashFlowItems
+ТрансформациАналитик=AnalystTransformatio
+ВА - Данные для дополнения аналитик_Товары количество=VA - Data to add analytics_Goods count
+
+# Тест 07
+ВА - Нечисловые показатели и группировки=VA - Non-Numbers and Groupings
+ВА - Нечисловые показатели=VA - Non-Numbers
+ВА - Расчет в коде=VA - Calculation in code
+ВА - Группировка по аналитикам=VA - Grouping by analytics
+
+Сохраненные настройки отборов=Saved filter settings
+Сохраненная настройка отбора=Saved filter setting
+Не равно фиксированному значению=Not equal to a fixed value
+Настройка отбора=Set up filter
+Итог по аналитикам не рассчитывается=Total by dimensions is not calculated
+
+источник=source
+приемник=recipient
+число=number
+дата=date
+булево=boolean
+строка=line
+максимум=maximum
+минимум=minimum
+среднее=average
+безитога=nototal
+
+ВключатьВПрайс=IncludeInPrice
+БезИтога=NoTotal
+Товары_ВключатьВПрайс=Goods_IncludeInPrice
+Товары_Артикул=Goods_ProductID
+ТоварыСумма=GoodsSum
+ТоварыБезИтога=GoodsNoTotal
+Источник_СТРК=Source_Line
+
+ВАРасчетВКоде=VACalculationInCode
+ВАРасчетВКоде_Источник_Булево=VACalculationInCode_Source_Boolean
+ВАРасчетВКоде_Источник_СТРК=VACalculationInCode_Source_Line
+ВАРасчетВКоде_Источник_Дата=VACalculationInCode_Source_Date
+
+ВА - Расчет в коде_Источник число=VA - Calculation in code_Source number
+ВА - Расчет в коде_ФормулыКод число=VA - Calculation in code_FormulasCode number
+
+ВАНечисловыеПоказателиИсточник=VANonNumbersSource
+ВАНечисловыеПоказателиИсточник_Товары_ВключатьВП=VANonNumbersSource_Goods_IncludeInPrice
+ВАНечисловыеПоказателиИсточник_Товары_Цена=VANonNumbersSource_Goods_Price
+ВАНечисловыеПоказателиИсточник_Товары_ДатаПоступ=VANonNumbersSource_Goods_DateReceipts
+ВАНечисловыеПоказателиИсточник_Товары_Артикул=VANonNumbersSource_Goods_ProductID
+ВАГруппировкаПоАналитикам=VAGroupingByAnalytics
+ВАГруппировкаПоАналитикам_ТоварыСумма_Максимум=VAGroupingByAnalytics_GoodsSum_Maximum
+ВАГруппировкаПоАналитикам_ТоварыБезИтога_Максимум=VAGroupingByAnalytics_GoodsNoTotal_Maximum
+
+Дата изменения=Change date
+Копирование значений=Copy values
+Товары датапоступления=Goods datereceipts
+Товары включатьвпрайс=Goods includeinprice
+Товары артикул=Goods product id
+Формулы датапоступления=Formulas datereceipts
+Формулы включатьвпрайс=Formulas includeinprice
+Формулы артикул=Formulas product id
+Источник датапоступления=Source datereceipts
+Источник включатьвпрайс=Source includeinprice
+Источник артикул=Source product id
+
+Меркурий ООО\nВА - Основной сценарий\nRUB\nЯнварь 2024 г.\nМесяц=Mercury LLC\nVA - Main scenario\nRUB\nJanuary 2024\nMonth
+Меркурий ООО\nВА - Основной сценарий\nRUB\nФевраль 2024 г.\nМесяц=Mercury LLC\nVA - Main scenario\nRUB\nFebruary 2024\nMonth
+Меркурий ООО\nВА - Основной сценарий\nRUB\nМарт 2024 г.\nМесяц=Mercury LLC\nVA - Main scenario\nRUB\nMarch 2024\nMonth
+
+Макеты\07\ВА_НечисловыеПоказателиПриемник_Меркурий.mxl=Макеты\07\ВА_НечисловыеПоказателиПриемник_Меркурий.mxl
+Макеты\07\ВА_НечисловыеПоказателиПриемник_Венера.mxl=Макеты\07\ВА_НечисловыеПоказателиПриемник_Венера.mxl
+Макеты\07\ВА_НечисловыеПоказателиПриемник_Венера_Движения.mxl=Макеты\07\ВА_НечисловыеПоказателиПриемник_Венера_Движения.mxl
+Макеты\07\ВА_РасчетВКоде_Движения.mxl=Макеты\07\ВА_РасчетВКоде_Движения.mxl
+Макеты\07\ВА_ГруппировкаПоАналитикам_Движения.mxl=Макеты\07\ВА_ГруппировкаПоАналитикам_Движения.mxl
+
+# Тест 08
+ВА - Нарастающий итог=VA - Cumulative total
+
+Расчет значения параметра=Calculate a parameter value
+
+ДанныеИсточника=SourceData
+ИзИсточникаДоВычисления=FromSourceBeforeCalculation
+ИзИсточникаДоВычисленияХ2=FromSourceBeforeCalculationX2
+ИзИсточникаПослеВычисления=FromSourceAfterCalculation
+ИзИсточникаОтборПоПериоду=FromSourceSelectionByPeriod
+ИзПриемникаОтборПоПериоду=FromReceiverSelectionByPeriod
+ИзПриемникаСдвигПериода=FromReceiverShiftPeriod
+ИзИсточникаПроизвольныйКод=FromSourceArbitraryCode
+
+ИзПриемникаСдвигПери=FromReceiverSelectio
+ИзИсточникаДоВычисле=FromSourceBeforeCalc
+ИзИсточникаПослеВычи=FromSourceAfterCalcu
+ВАНарастающийИтогИсточник=VACumulativeTotalSource
+
+ОбщийИтог=GrandTotal
+
+Макеты\08\ВА_НарастающийИтог.mxl=Макеты\08\ВА_НарастающийИтог.mxl
+Макеты\08\ВА_НарастающийИтог_Движения.mxl=Макеты\08\ВА_НарастающийИтог_Движения.mxl
+
+# Тест 09
+ВА - Валютные показатели=VA - Currency indicators
+
+значение=value
+
+Выручка=Revenue
+Выручка в валюте=Revenue in currency
+Выручка по валюте=Revenue by currency
+
+ВыручкаВВалюте=RevenueInCurrency
+ВыручкаПоВалюте=RevenueByCurrency
+ДатаКурса=EffectiveOn
+
+Средний курс за период=Average rate for period
+Средний курс за период МСФО=Average rate for IFRS period
+Средний курс за период ЦБ=Average rate for period CB
+Курс на начало периода=Exchange rate at the beginning of the period
+Курс на конец периода=Exchange rate at the end of the period
+Средний курс за предыдущий период=Average rate for the previous period
+Курс на конец предыдущего периода=Exchange rate at the end of the previous period
+Средний курс за предыдущий период ЦБ=Average rate for the previous period CB
+Курс на дату указанную в показателе=Exchange rate as of the date specified in the indicator
+Курс на дату указанную в показателе другого отчета=Exchange rate as of the date specified in the indicator another report
+Курс указанный в показателе=Rate specified in the indicator
+Курс указанный в показателе другого отчета=Rate specified in the indicator another report
+
+Поле "Вид курса" не заполнено="Exchange rate kind" is a required field.
+
+Курс на начало периода=Exchange rate at the beginning of the period
+Курс на конец периода=Exchange rate at the end of the period
+Средний курс=Average rate
+Средний курc МСФО=Average rate IFRS
+Средний курc (ЦБ)=Average rate (CB)
+
+Макеты\09\ВА_ВалютныеПоказатели_Источник_Движения.mxl=Макеты\09\ВА_ВалютныеПоказатели_Источник_Движения.mxl
+Макеты\09\ВА_ВалютныеПоказатели_Приемник_Движения.mxl=Макеты\09\ВА_ВалютныеПоказатели_Приемник_Движения.mxl
+
+# Тест 10
+ВА - Импорт ADO (Excel)=VA - ADO Import (Excel)
+Продажи=Sales
+$КаталогПроекта$\Макеты\10\ADO=$КаталогПроекта$\Макеты\10\ADO_En
+Лист1$=Sheet1$
+Деятельность=Activity
+ВА_ЗагрузкаADO=VA_LoadingADO
+[Количество]=[Count]
+Продажи артикул=Sales product id
+Общие настройки=General settings
+
+Макеты\10\ВА_ИмпортADO.mxl=Макеты\10\ВА_ИмпортADO.mxl
+Макеты\10\ВА_ИмпортADO_Движения.mxl=Макеты\10\ВА_ИмпортADO_Движения.mxl
+
+# Тест 11
+ВА - Продажи=VA - Sales
+Процедура до вычисления=Procedure before calculation
+Процедура после вычисления=Procedure after calculation
+Налоговый резидент РФ=Tax resident
+Номенклатура_Количество=ProductRange_count
+Номенклатура_Цена=ProductRange_Price
+
+# Тест 12
+ВА - Заполнение пустых аналитик=VA - Filling empty analytics
+ПремникТаЖеАналитика=SuccessorSameAnalytics
+ПремникПустаяАналитика=SuccessorEmptyAnalytics
+
+ВА - Заполнение пустых аналитик_Источник сумма=VA - Filling empty analytics_Source amount
+ВА - Заполнение пустых аналитик_Источник дата=VA - Filling empty analytics_Source date
+
+# Тест 13
+ВА - Трансформации периодов=VA - Transformations period 
+ВА - Трансформация периодов=VA - Transformation period
+Накопление=Accumulation
+
+ВА - Трансформация периодов_Накопление сумма=VA - Transformation period_Accumulation Amount
+ВАТрансформацияПериодов_Источник_Сумма=VATransformationPeriod_Source_Amount
+ВАТрансформацияПериодов_Накопление_Сумма=VATransformationPeriod_Accumulation_Amount
+ВАТрансформацияПериодов_Приемник_Сумма=VATransformationPeriod_Destination_Amount
+
+Обнаружена рекурсия в связях при расчете показателя: "Приемник сумма".\nПроверьте формулы расчета и перезапишите правило расчета.=Recursion is found in links when calculating the indicator: "Destination amount".\nCheck calculation formulas and rewrite the calculation rule.
+Обнаружена рекурсия в связях при расчете показателя: "Накопление сумма".\nПроверьте формулы расчета и перезапишите правило расчета.=Recursion is found in links when calculating the indicator: "Accumulation amount".\nCheck calculation formulas and rewrite the calculation rule.
+Обнаружена рекурсия в связях при расчете показателя: "Итог сумма".\nПроверьте формулы расчета и перезапишите правило расчета.=Recursion is found in links when calculating the indicator: "Total amount".\nCheck calculation formulas and rewrite the calculation rule.
+{"S","Дерево расчета:\n	Итог сумма\n		Накопление сумма\n			Приемник сумма\n				Источник сумма\n				Итог сумма"}={"S","Calculation tree:\n	Total amount\n		Accumulation amount\n			Destination amount\n				Source amount\n				Total amount"}
+{"S","Дерево расчета:\n	Приемник сумма\n		Источник сумма\n		Итог сумма\n			Накопление сумма\n				Приемник сумма"}={"S","Calculation tree:\n	Destination amount\n		Source amount\n		Total amount\n			Accumulation amount\n				Destination amount"}
+{"S","Дерево расчета:\n	Накопление сумма\n		Приемник сумма\n			Источник сумма\n			Итог сумма\n				Накопление сумма"}={"S","Calculation tree:\n	Accumulation amount\n		Destination amount\n			Source amount\n			Total amount\n				Accumulation amount"}
+
+# Тест 14
+ВА - Протокол расчета=VA - Calculation protocol
+
+СтрокаОтчета=ReportLine
+
+Из расчета исключен заблокированный период по параметрам:\n	Период: "Январь 2024 г."\n	Регламент: "ВА - Основной регламент",\n	Сценарий: "ВА - Основной сценарий",\n	Организация: "Земля ООО"=Locked period is excluded from calculation by the following parameters:\n	Period: "January 2024"\n	Regulation: "VA - Main regulations",\n	Scenario: "VA - Main scenario",\n	Company: "Earth LLC"
+Из расчета исключен заблокированный период по параметрам:\n	Период: "Февраль 2024 г."\n	Регламент: "ВА - Основной регламент",\n	Сценарий: "ВА - Основной сценарий",\n	Организация: "Земля ООО"=Locked period is excluded from calculation by the following parameters:\n	Period: "February 2024"\n	Regulation: "VA - Main regulations",\n	Scenario: "VA - Main scenario",\n	Company: "Earth LLC"
+
+# Тест 15
+ВА - Сценарий с контролем=VA - Scenario with control
+
+Контроль=Control
+контрольда=controlyes
+контрольнет=controlno
+Превышено контролируемое значение для показателя:\n	Показатель: "Синтетика контрольда"\n	Расчетное значение: "250"\n	Контрольное значение: "200"\n	Контролирующий сценарий: "ВА - Основной сценарий"\n	Организация: "Меркурий ООО"\n	Период: "Февраль 2024 г."\n	Проект: "ВА - Основной проект"=You have exceeded the controlled value for the indicator:\n	Indicator: "Synthetic controlyes"\n	Calculated value: "250"\n	Control value: "200"\n	Controlling scenario: "VA - Main scenario"\n	Company: "Mercury LLC"\n	Period: "February 2024"\n	Project: "VA - Main project"
+Превышено контролируемое значение для показателя:\n	Показатель: "Аналитики контрольда"\n	Расчетное значение: "250"\n	Контрольное значение: "200"\n	Контролирующий сценарий: "ВА - Основной сценарий"\n	Организация: "Меркурий ООО"\n	Период: "Февраль 2024 г."\n	Проект: "ВА - Основной проект"\n	Аналитика1: "Реализация программных продуктов"\n	Аналитика2: "1С:Корпорация"\n	АналитикаВалюта: "RUB"=You have exceeded the controlled value for the indicator:\n	Indicator: "Dimensions controlyes"\n	Calculated value: "250"\n	Control value: "200"\n	Controlling scenario: "VA - Main scenario"\n	Company: "Mercury LLC"\n	Period: "February 2024"\n	Project: "VA - Main project"\n	Dimension1: "3Software sale"\n	Dimension2: "2C:Corporation"\n	DimensionCurrency: "RUB"
+
+Макеты\15\ВА_КонтролируемыеПоказатели_Движения.mxl=Макеты\15\ВА_КонтролируемыеПоказатели_Движения.mxl
+
+# Тест 16
+Не заполнена обязательная аналитика для показателя:\n	Показатель: "Приемник2 число"\n	Аналитика3: "Товарные категории"=Required dimension is not filled for the indicator:\n	Indicator: Destination2 number\n	Dimension3: "Product categories"
+Не заполнена обязательная аналитика для показателя:\n	Показатель: "Приемник2 дата"\n	Аналитика3: "Товарные категории"=Required dimension is not filled for the indicator:\n	Indicator: Destination2 date\n	Dimension3: "Product categories"
+Не найден экземпляр отчета по ключевым срезам:\n	Сценарий: ВА - Основной сценарий,\n	Организация: Меркурий ООО,\n	Период: Январь 2024 г.,\n	Аналитика1: Внедрение программных продуктов=A report instance is not found by the key slices:\n	Scenario: VA - Main scenario\n	Company: Mercury LLC\n	Period: January 2024,\n	Dimension1: 2Software implementation
+ВА - Пустые аналитики_Источник=VA - Empty analytics_Source
+
+# Тест 18
+ВА - Проверка настроек доступа=VA - Checking access settings
+Бланк ВА - Проверка настроек доступа (нет) вида отчета: ВА - Проверка настроек доступа (запись) = Template VA - Checking access settings (no) report type: VA - Checking access settings (record)
+
+запись=record
+чтение=reading
+несколько=some
+
+СТРКОтчета=ReportLine
+СТРКОтчета_Сумма=ReportLine_Amount
+ВАПроверкаНастроекДоступаНет_СТРКОтчета_Сумма=VACheckingAccessSettingsNo_ReportLine_Amount
+
+Ручной ввод=Manual entry
+Не удалось определить документ управления отчетным периодом по параметрам:\n	Сценарий: "ВА - Основной сценарий",\n	Период: "Январь 2023 г."=Cannot identify a reporting period management document by the parameters:\n	Scenario: VA - Main scenario,\n	Period: January 2023
+У пользователя Бюджетирование2\nотсутствуют права на просмотр бланка ВА - Проверка настроек доступа (нет) по организации Система ООО.\nВыберите другой бланк.=The Budgeting2 user\nhas insufficient rights to view the VA - Checking access settings (no) template by the System LLC company.\nSelect another template.
+У пользователя Бюджетирование2\nотсутствуют права на изменение экземпляров отчетов с бланком ВА - Проверка настроек доступа (нет) по организации Система ООО=The Budgeting2 user\nhas insufficient rights to change report instances with the VA - Checking access settings (no) template by the System LLC company
+Основной язык=Main language
+Не использовать прокси-сервер=Do not use proxy server
+Исполнитель=Assignee
+
+Параметры=Data parameters
+Версия регламента: ВА - Основной регламент=Regulation version: VA - Main regulations
+Вывод диаграммы: Нет=Display chart: No
+Элиминирующая организация=Eliminating company
+Вид организационной единицы=Business unit kind
+Валюта представления отчетности=Presentation currency
+
+Для объекта * ответственный за согласование в матрице полномочий не задан. Поле Статус доступно для редактирования. Установите нужный статус согласования вручную=No person responsible for approval is specified in the responsibility assignment matrix for *. Enter proper approval status manually.
+По объекту * не запущен процесс согласования.=Approval has not been initiated for object *.
+Для объекта * ответственный за согласование в матрице полномочий не задан. Установите нужный статус согласования вручную=Person responsible for approval of the * object is not specified in the responsibility assignment matrix. The Status field is available for editing. Set the required approval status manually
+Для организации "Меркурий ООО" текущий пользователь не обладает ролью "Суперпользователь"=Current user does not have the "Superuser" role for company "Mercury LLC"
+
+Для объекта Корректировка значений показателей * ответственный за согласование в матрице полномочий не задан. Поле Статус доступно для редактирования. Установите нужный статус согласования вручную=No person responsible for approval is specified in the responsibility assignment matrix for *. Enter proper approval status manually.
+По объекту Корректировка значений показателей * не запущен процесс согласования.=Approval has not been initiated for object *.
+Для объекта Корректировка значений показателей * ответственный за согласование в матрице полномочий не задан. Установите нужный статус согласования вручную=Person responsible for approval of the * object is not specified in the responsibility assignment matrix. The Status field is available for editing. Set the required approval status manually
+
+# Тест 19
+ВА_ПроцессЦена=ВА_ПроцессЦена
+
+УправлениеОтчетнымПериодом=AccountingPeriodManagement
+ИнициаторПроцесса=ProcessInitiator
+
+$КаталогПроекта$\Макеты\19=$КаталогПроекта$\Макеты\19
+$КаталогПроекта$\Макеты\19\<Вид отчета>+<Организация>.xls?=$КаталогПроекта$\Макеты\19\<Report type>+<Company>.xls?
+Макеты\19\ВА_ПроцессПодготовкиОтчетности_МатрицаОтчетов1.mxl=Макеты\19\ВА_ПроцессПодготовкиОтчетности_МатрицаОтчетов1_En.mxl
+
+Оповещение=Notification
+После ручных этапов=After manual steps
+Выполнены расчеты по сценарию [Параметр.Сценарий] и регламенту [Параметр.ВерсияОрганизационнойСтруктуры].=Calculations were performed according to the [Parameter.Scenario] scenario and the [Parameter.OrganizationalStructureVersion] regulations.
+Обработка - Обработка этапа=Process - Processing stage
+Обработка универсального процесса=Process universal process
+Сообщить("Обработка универсального процесса выполнена!");=Message("Universal process processing completed!");
+Редактирование текста процедуры=Procedure text editing
+
+Матрица отчетов=Report matrix
+Управление отчетным периодом \nЯнварь 2024 г. - Март 2024 г. (Периодичность: Месяц) <ВА - Процесс подготовки отчетности>=January 2024 - March 2024 (Frequency: Month) <VA - Report preparation process>\n reporting period management.		
+Нзп=Work in progress
+Процесс подготовки отчетности запущен=The report preparation process is started on
+Процесс подготовки отчетности не запущен=The report preparation process is not started
+Процесс подготовки отчетности завершен=The report preparation process is completed on
+Дата окончания (план)=End date (planned)
+Дата окончания (факт)=End date (actual)
+Осталось / Отклонение=Remaining / Variance
+Шаблон документа / Организация=Document template / Company
+
+Диаграмма процесса подготовки отчетности=Diagram of report preparation process
+Выберите этап для обработки=Select a step for processing
+Тип этапа=Step type
+Отменить обработку этапа для организаций:=Cancel the step processing for the companies:
+Завершить обработку этапа для организаций:=Complete the step processing for the companies:
+Начать обработку этапа для организаций:=Start the step processing for the companies:
+Выбран=Selected
+В обработке=Processing
+
+Документ * не может быть записан:\n- Этап процесса Ручное заполнение - "ВА - ПроцессКоличество" использует вид отчета ВА - ПроцессКоличество и находится в состоянии "Закрыт".=Cannot save document *:\n- Process step Manual filling - "VA - ProcessCount" uses the report type VA - ProcessCount and is in status "Closed".
+Заполнен документ "Экземпляр отчета *"=The Report instance * document is calculated by regulation
+Документ "Экземпляр отчета *" переведен в состояние "Утвержден"=The "Report instance *" document is set to the "Confirmed" state
+Документ "Экземпляр отчета *" переведен в состояние "Черновик"=The "Report instance *" document is set to the "Draft" state
+Этап "Импорт - "ВА - ПроцессЦена"" переведен в состояние "Не открыт"=The "Import - "VA - ProcessPrice"" step is set to the "Not opened" state
+Для документа * установлен способ формирования "Ручное заполнение". Перевод в состояние "Утвержден" невозможен.=For the "Report instance *" document, the "Manual filling" generation method is set. Cannot set the document to the "Confirmed" state.
+Невозможно начать обработку этапа "Расчет по правилу - "ВА - ПроцессСумма"", т. к. есть незавершенный подчиненный этап: "Импорт - "ВА - ПроцессЦена""=Cannot start processing the "Calculation by rule - "VA - ProcessAmount"" step as there is an uncompleted subordinate step: "Import - "VA - ProcessPrice""
+Невозможно завершить этап "Расчет по правилу - "ВА - ПроцессСумма"", т. к. есть незавершенный подчиненный этап: "Импорт - "ВА - ПроцессЦена""=Cannot complete the "Calculation by rule - "VA - ProcessAmount"" step as there is an uncompleted subordinate step: "Import - "VA - ProcessPrice""
+Документ * участвует в этапе подготовки отчетности "Ручное заполнение - "ВА - ПроцессКоличество"", который находится в состоянии "Завершен".\nДля изменения документа откройте указанный этап процесса подготовки отчетности.=The "Report instance *" document is used in the "Manual filling - "VA - ProcessCount"" report preparation step with the "Completed" state.\nTo edit the document, open the specified step of the report preparation process.
+Документ * участвует в этапе подготовки отчетности "Импорт - "ВА - ПроцессЦена"", который находится в состоянии "Завершен".\nДля изменения документа откройте указанный этап процесса подготовки отчетности.=The "Report instance *" document is used in the "Import - "VA - ProcessPrice"" report preparation step with the "Completed" state.\nTo edit the document, open the specified step of the report preparation process.
+
+Актуальный этап=Relevant step
+Прогресс операций=Operation progress
+<Все организации>=<All companies>
+
+# Тест 20
+ВА - Группа процесса согласования=VA - Approval Process Group
+ВА - Адресация по роли=VA - Addressing by Role
+ВА - Роль расширенной адресации=VA - The role of extended addressing
+ВА - Расширенная адресация=VA - Extended Addressing
+ВА - Согласование=VA - Coordination
+ВА - Шаблон процесса согласования=VA - Approval Process Template
+
+Суперпользователь=Superuser
+Консолидация по МСФО=Consolidation under IFRS
+Роли контактных лиц=Contact person roles
+Расширенная адресация согласования=Extended approval addressing
+Документ ИБ=Infobase document
+Роль по фиксированному объекту=Role by fixed object
+Матрица адресации=Addressing matrix
+Роль=Role
+Ответственные по объектам=Responsible persons by objects
+Выбор пользователя=Select user
+Документы=Documents
+Документы текущей информационной базы=Current infobase documents
+Маршрут согласования=Approval route
+Документ текущей ИБ=Current infobase document
+Этап согласования=Approval step
+Расширенная адресация=Extended addressing
+Автоматическое утверждение документа=Automatic document confirmation
+Переход по условию=Conditional transition
+Настройка перехода по условию=Conditional transition settings
+Элемент=Item
+Действие=Action
+Тогда=Then
+Этапы универсальных процессов=Universal process steps
+Иначе=Else
+Матрица полномочий=Responsibility assignment matrix
+Настройка списка=List Options
+Шаблон документа БД=Database document template
+Регистр матрицы полномочий=Register of responsibility assignment matrix
+Выбор группы пользователей=Select user group
+Согласование=Approval
+Начальная страница=Home page
+Заместители для пользователя=Substitutes for user
+Заместитель=Substitute
+Заместитель для пользователя=User substitute
+Дополнительное согласование=Additional approval
+Объект согласования=Approval object
+Событие=Event
+Автоматическое утверждение документа=Automatic document confirmation
+Процесс запущен=Process started
+Этап согласован=Step is approved
+Добавлен доп согласующий=Additional approver added
+Объект согласования утвержден=Approval object is confirmed
+Процесс остановлен=Process is terminated
+Состояние объекта=Object state
+
+Запущен процесс согласования=Approval process started
+Согласование за Бюджетирование1:=Approval on behalf of Budgeting1:
+Добавлен дополнительный согласующий Бюджетирование2=The Budgeting2 additional approver added 
+Согласование за Бюджетирование2:=Approval on behalf of Budgeting2:
+Автоматическое утверждение=Automatic confirmation
+Отмена процесса согласования=Approval process cancellation
+
+Проверен, на утверждении=Checked, pending approval
+Отправлен на уточнение=Sent for revision
+Утвержден=Confirmed
+
+СТРК3_Сумма=Line3_Amount
+
+Макеты\20\ВА_ТестированиеСогласованияЭтап1_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияЭтап1_Меркурий.mxl
+Макеты\20\ВА_ТестированиеСогласованияЭтап2_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияЭтап2_Меркурий.mxl
+Макеты\20\ВА_ТестированиеСогласованияЭтап3_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияЭтап3_Меркурий.mxl
+Макеты\20\ВА_ТестированиеСогласованияЭтап4_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияЭтап4_Меркурий.mxl
+Макеты\20\ВА_ТестированиеСогласованияАвтоутверждение_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияАвтоутверждение_Меркурий.mxl
+Макеты\20\ВА_ТестированиеСогласованияИстория_Меркурий.mxl=Макеты\20\ВА_ТестированиеСогласованияИстория_Меркурий.mxl
+
+# Удалить после загрузки словарей
+Отменить обработку этапа для следующих организаций=Cancel step processing for companies
+Закрыть этап для следующих организаций=Close stage for companies
+Открыть этап для следующих организаций=Open stage for companies
+
+Расчет по правилу=Calculation by rule
+Из регламента=From regulation
+
+Документ * не может быть записан:\n- Этап процесса Ручное заполнение - "ВА - ПроцессКоличество" использует вид отчета ВА - ПроцессКоличество и находится в состоянии "Закрыт".=Cannot save document *:\n- Process step Manual filling - "VA - ProcessAmount" uses the report type VA - ProcessAmount and is in status "Closed".
+Документ * не может быть записан:\n- Этап процесса Импорт - "ВА - ПроцессЦена" использует вид отчета ВА - ПроцессЦена и находится в состоянии "Закрыт".=Cannot save document *:\n- Process step Import - "VA - ProcessPrice" uses the report type VA - ProcessPrice and is in status "Closed".
